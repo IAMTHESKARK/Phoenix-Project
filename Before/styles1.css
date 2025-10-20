@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5dc;
+}
+.tornado {
+    border: 2px solid #ff4500;
+    padding: 15px;
+    background-color: #fff8dc;
+    border-radius: 10px;
+}
+.hurricanes {
+    border: 2px solid #ff4500;
+    padding: 15px;
+    background-color: #fff8dc;
+    border-radius: 10px;

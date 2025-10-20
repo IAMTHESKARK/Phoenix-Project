@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="styles1.css">
+    </head>
+    <body>
+
+        <h1>What to do during natural disasters</h1>
+        <p>There are many types of natural disasters that can impact
+            communities
+            around the world. Some of the most common types include:
+            Tornadoes,
+            Hurricanes(also known as cyclones or typhoons based on
+            location),
+            Earthquakes, and Floods.
+            However, quick and effective action can help mitigate the impact
+            of
+            these events. Here are some general guidelines on what to do
+            during
+            these natural disasters:</p>
+        <div class="tornado">
+            <h2>Tornadoes</h2>
+            <h3>Before</h3>
+            <p>Create an emergency kit with essentials like water,
+                non-perishable
+                food,
+                medications, flashlight, batteries, an emergency radio, and important documents.</p>
+            Identify a
+            safe room in your home, such as a basement or an interior room on
+            the
+            lowest floor without windows. Making a plan will reduce panic and
+            protect families from harm, especially by preventing family members
+            by
+            going out into the storm to look for each other.
+            `<h3>During</h3>
+            <p>During a tornado, seek shelter immediately in a basement or an
+                interior room on the lowest floor of a sturdy building. Avoid
+                windows and cover yourself with a mattress or heavy blankets to
+                protect against debris. If outside, lie down in a low-lying
+                area,
+                preferable a ditch, and cover your head with your hands. Never
+                try to outrun a tornado, even in a car. If in a vehicle or a non-sturdy building, abandon
+                it for the nearest sturdy building.</p>
+            <h3>After</h3>
+            <p>After a tornado, check yourself and others for injuries and
+                provide first aid as needed. Avoid downed power lines and report
+                them to the utility company. Stay informed through local news
+                and weather updates. Be cautious when entering damaged buildings
+                and avoid using matches or lighters in case of gas leaks.</p>   
+            </div>
+    <div class="hurricanes">
+        <h3>Before</h3>
+        
+        <h3>During</h3>
+        <h3>After</h3>
+    </div>
+        </body>
+
+</html>
