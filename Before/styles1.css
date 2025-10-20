@@ -2,16 +2,23 @@ body {
     margin: 0;
     padding: 20px;
     font-family: Arial, sans-serif;
-    background-color: #f5f5dc;
+    background-color: #38423B;
 }
 .tornado {
     border: 2px solid #ff4500;
     padding: 15px;
-    background-color: #fff8dc;
+    background-color: #f5f5dc;
     border-radius: 10px;
 }
 .hurricanes {
     border: 2px solid #ff4500;
     padding: 15px;
-    background-color: #fff8dc;
+    background-color: #f5f5dc;
     border-radius: 10px;
+}
+.floods {
+    border: 2px solid #1e90ff;
+    padding: 15px;
+    background-color: #f5f5dc;
+    border-radius: 10px;
+}
