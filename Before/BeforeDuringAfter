@@ -58,6 +58,7 @@
                 and weather updates. Be cautious when entering damaged buildings
                 and avoid using matches or lighters in case of gas leaks.</p>   
             </div>
+            <br>
     <div class="hurricanes">
         <h3>Before</h3>
         <p>Secure your home by boarding up windows and reinforcing doors.
@@ -80,6 +81,7 @@
             and weather updates. Be cautious when entering damaged buildings
             and avoid using matches or lighters in case of gas leaks.</p>
     </div>
+    <br>
 <div id="floods">
         <h2>Floods</h2>
         <h3>Before</h3>
