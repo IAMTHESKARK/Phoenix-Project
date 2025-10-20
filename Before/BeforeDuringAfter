@@ -80,6 +80,30 @@
             and weather updates. Be cautious when entering damaged buildings
             and avoid using matches or lighters in case of gas leaks.</p>
     </div>
-        </body>
+<div id="floods">
+        <h2>Floods</h2>
+        <h3>Before</h3>
+        <p>Know your flood risk and have an evacuation plan in place. Create
+            an emergency kit with essentials like water, non-perishable food,
+            medications, flashlight, batteries, an emergency radio, and
+            important documents. Elevate electrical appliances and utilities
+            above potential flood levels. Stay informed about weather updates
+            and heed evacuation orders from local authorities.</p>
+        <h3>During</h3>
+        <p>During a flood, move to higher ground immediately. Avoid walking
+            or driving through floodwaters, as they can be deeper and more
+            dangerous than they appear. If you are in a vehicle and floodwaters
+            rise around you, abandon the vehicle and seek higher ground.
+            Listen to local news and weather updates for information on road
+            closures and evacuation routes.</p>
+        <h3>After</h3>
+        <p>After a flood, check yourself and others for injuries and provide
+            first aid as needed. Avoid downed power lines and report them to
+            the utility company. Stay informed through local news and weather
+            updates. Be cautious when entering damaged buildings and avoid
+            using matches or lighters in case of gas leaks.</p>
+    </div>
+</div>        
+</body>
 
 </html>
